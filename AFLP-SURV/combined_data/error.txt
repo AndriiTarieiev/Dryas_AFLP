@@ -1,0 +1,105 @@
+
+
+Name of locus 1 = ATG_CTG_149 could not be transformed to a floating point value
+Thus the correlation between fragment size and frequency could not be performed
+seed:-30400
+   0 permutations done out of 10000
+ 200 permutations done out of 10000
+ 400 permutations done out of 10000
+ 600 permutations done out of 10000
+ 800 permutations done out of 10000
+1000 permutations done out of 10000
+1200 permutations done out of 10000
+1400 permutations done out of 10000
+1600 permutations done out of 10000
+1800 permutations done out of 10000
+2000 permutations done out of 10000
+2200 permutations done out of 10000
+2400 permutations done out of 10000
+2600 permutations done out of 10000
+2800 permutations done out of 10000
+3000 permutations done out of 10000
+3200 permutations done out of 10000
+3400 permutations done out of 10000
+3600 permutations done out of 10000
+3800 permutations done out of 10000
+4000 permutations done out of 10000
+4200 permutations done out of 10000
+4400 permutations done out of 10000
+4600 permutations done out of 10000
+4800 permutations done out of 10000
+5000 permutations done out of 10000
+5200 permutations done out of 10000
+5400 permutations done out of 10000
+5600 permutations done out of 10000
+5800 permutations done out of 10000
+6000 permutations done out of 10000
+6200 permutations done out of 10000
+6400 permutations done out of 10000
+6600 permutations done out of 10000
+6800 permutations done out of 10000
+7000 permutations done out of 10000
+7200 permutations done out of 10000
+7400 permutations done out of 10000
+7600 permutations done out of 10000
+7800 permutations done out of 10000
+8000 permutations done out of 10000
+8200 permutations done out of 10000
+8400 permutations done out of 10000
+8600 permutations done out of 10000
+8800 permutations done out of 10000
+9000 permutations done out of 10000
+9200 permutations done out of 10000
+9400 permutations done out of 10000
+9600 permutations done out of 10000
+9800 permutations done out of 10000
+   0 bootstraps done out of 10000
+ 200 bootstraps done out of 10000
+ 400 bootstraps done out of 10000
+ 600 bootstraps done out of 10000
+ 800 bootstraps done out of 10000
+1000 bootstraps done out of 10000
+1200 bootstraps done out of 10000
+1400 bootstraps done out of 10000
+1600 bootstraps done out of 10000
+1800 bootstraps done out of 10000
+2000 bootstraps done out of 10000
+2200 bootstraps done out of 10000
+2400 bootstraps done out of 10000
+2600 bootstraps done out of 10000
+2800 bootstraps done out of 10000
+3000 bootstraps done out of 10000
+3200 bootstraps done out of 10000
+3400 bootstraps done out of 10000
+3600 bootstraps done out of 10000
+3800 bootstraps done out of 10000
+4000 bootstraps done out of 10000
+4200 bootstraps done out of 10000
+4400 bootstraps done out of 10000
+4600 bootstraps done out of 10000
+4800 bootstraps done out of 10000
+5000 bootstraps done out of 10000
+5200 bootstraps done out of 10000
+5400 bootstraps done out of 10000
+5600 bootstraps done out of 10000
+5800 bootstraps done out of 10000
+6000 bootstraps done out of 10000
+6200 bootstraps done out of 10000
+6400 bootstraps done out of 10000
+6600 bootstraps done out of 10000
+6800 bootstraps done out of 10000
+7000 bootstraps done out of 10000
+7200 bootstraps done out of 10000
+7400 bootstraps done out of 10000
+7600 bootstraps done out of 10000
+7800 bootstraps done out of 10000
+8000 bootstraps done out of 10000
+8200 bootstraps done out of 10000
+8400 bootstraps done out of 10000
+8600 bootstraps done out of 10000
+8800 bootstraps done out of 10000
+9000 bootstraps done out of 10000
+9200 bootstraps done out of 10000
+9400 bootstraps done out of 10000
+9600 bootstraps done out of 10000
+9800 bootstraps done out of 10000
