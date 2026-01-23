@@ -1,0 +1,45 @@
+#!/bin/sh 
+mkdir results_f log harvester
+mkdir k1
+mkdir k2
+mkdir k3
+mkdir k4
+mkdir k5
+mkdir k6
+mkdir k7
+mkdir k8
+mkdir k9
+mkdir k10
+mkdir k11
+mkdir k12
+
+cd log
+mkdir k1
+mkdir k2
+mkdir k3
+mkdir k4
+mkdir k5
+mkdir k6
+mkdir k7
+mkdir k8
+mkdir k9
+mkdir k10
+mkdir k11
+mkdir k12
+
+cd ..
+
+cat structureCommands | parallel -j 100%
+
+mv k1 k2 k3 k4 k5 k6 k7 k8 k9 k10 k11 k12  results_f/
+cd results_f/
+cp k*/*_f . && zip combined_Harvester-Upload.zip *_f && rm *_f
+mv combined_Harvester-Upload.zip ../harvester/
+cd ..
+echo 'Your structure run has finished.'
+echo 'Zip archive: combined_Harvester-Upload.zip is ready.'
+# Run structureHarvestermkdir harvester_data
+cp results_f/k*/*_f harvester_data
+./structureHarvester.py --dir harvester_data --out harvester --evanno --clumpp
+rm -rf harvester_data
+echo 'structureHarvester run has finished.'
